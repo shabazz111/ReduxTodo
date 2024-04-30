@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.text-with-line {
+  text-decoration: line-through;
+  text-decoration-color: red; /* Change color to your desired color */
+  text-decoration-thickness: 2px;
+}
